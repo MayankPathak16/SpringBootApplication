@@ -1,0 +1,32 @@
+----------------------------------------------------------------
+Sat Jul 17 20:23:09 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-017a-b4f4-ef6e-000002a86108 
+on database directory memory:C:\Users\MAYPATHA\Documents\springmvc\SpringBoot-9\e6714855-5451-44d6-899a-490afb37625d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11028347 
+Loaded from file:/C:/Users/MAYPATHA/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\MAYPATHA\Documents\springmvc\SpringBoot-9
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jul 17 20:24:24 IST 2021:
+Shutting down instance a816c00e-017a-b4f4-ef6e-000002a86108 on database directory memory:C:\Users\MAYPATHA\Documents\springmvc\SpringBoot-9\e6714855-5451-44d6-899a-490afb37625d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11028347 
+----------------------------------------------------------------
+Sat Jul 17 20:24:25 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 292a80bc-017a-b4f4-ef6e-000002a86108 
+on database directory memory:C:\Users\MAYPATHA\Documents\springmvc\SpringBoot-9\49fca2ab-1724-4430-93f1-fd2e3daa2070 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11028347 
+Loaded from file:/C:/Users/MAYPATHA/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\MAYPATHA\Documents\springmvc\SpringBoot-9
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jul 17 20:24:26 IST 2021:
+Shutting down instance 292a80bc-017a-b4f4-ef6e-000002a86108 on database directory memory:C:\Users\MAYPATHA\Documents\springmvc\SpringBoot-9\49fca2ab-1724-4430-93f1-fd2e3daa2070 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@11028347 
